@@ -6,8 +6,6 @@ What initially drove me to start my programming journey was the thought of handl
 Evenetually I fell in love with development as an art form and became very open to learning new things no matter what!
 </h3>
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/lxdain/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lxdain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lxdain" height="30" width="40" /></a>
